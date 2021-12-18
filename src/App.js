@@ -48,7 +48,7 @@ function App() {
       </Switch>
       <MessengerCustomerChat
     pageId="100244785808927"
-    appId="404801124635752"
+    appId="457294225975768"
        />
     </div>
     
